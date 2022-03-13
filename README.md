@@ -1,6 +1,6 @@
 ## Contents
 
-### [`#infosec`](#computer-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#hobby-projects`](#hobby-projects) [`#other-links`](#other-links)
+### [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#hobby-projects`](#hobby-projects) [`#other-links`](#other-links)
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### TryHackMe
 
-I'm very interested in information security and I regularly use [TryHackMe](https://tryhackme.com/) to practice me ethical hacking skills and learn new ones!
+I regularly use [TryHackMe](https://tryhackme.com/) to practice me ethical hacking skills and learn new ones:
 
 - [My TryHackMe Writeups](ctf-thm-public)
 - [My TryHackMe Profile](https://tryhackme.com/p/hag)
@@ -30,7 +30,15 @@ I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag
 
 ## Hobby Projects
 
+- [Commodore 64 Emulator](retro-computing)
 - [Nissan Leaf IoT Dashboard](leaf-display)
+- [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
+- [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
+  - Reverse engineering and documentation of the `.zi` font format. Also includes a generator and an editor.
+- [Some Of My 3D Models For 3D Printing](https://github.com/hagronnestad/nextion-font-editor)
+  - [Thingiverse](https://www.thingiverse.com/heinandre/designs)
+- [COM Port Proxy](com-port-proxy)
+- [KAIFA MA105H2E Smart Meter MBUS Interface PoC](mbus-han-kaifa)
 
 
 ### Other Links
