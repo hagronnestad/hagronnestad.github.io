@@ -1,4 +1,10 @@
-## Computer Security / Ethical Hacking
+## Contents
+
+### [`#infosec`](#computer-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#hobby-projects`](#hobby-projects) [`#other-links`](#other-links)
+
+---
+
+## Information Security
 
 
 ### TryHackMe
