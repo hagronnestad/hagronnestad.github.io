@@ -35,7 +35,7 @@ I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag
 - [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
 - [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
   - Reverse engineering and documentation of the `.zi` font format. Also includes a generator and an editor.
-- [Some Of My 3D Models For 3D Printing](https://github.com/hagronnestad/nextion-font-editor)
+- [Some Of My 3D Models For 3D Printing](https://github.com/hagronnestad/3d-print-models)
   - [Thingiverse](https://www.thingiverse.com/heinandre/designs)
 - [COM Port Proxy](com-port-proxy)
 - [KAIFA MA105H2E Smart Meter MBUS Interface PoC](mbus-han-kaifa)
