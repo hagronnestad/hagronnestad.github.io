@@ -31,6 +31,7 @@ I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag
 ## Hobby Projects
 
 - [Commodore 64 Emulator](retro-computing)
+- [`c64matrix`](c64matrix)
 - [Nissan Leaf IoT Dashboard](leaf-display)
 - [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
 - [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
