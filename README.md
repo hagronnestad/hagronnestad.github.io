@@ -1,18 +1,24 @@
 ## Contents
 
-### [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#hobby-projects`](#hobby-projects) [`#other-links`](#other-links)
+### [`#hobby-projects`](#hobby-projects) [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#other-links`](#other-links)
 
 ---
 
+## Hobby Projects
+
+- [Commodore 64 Emulator](retro-computing)
+- [`c64matrix`](c64matrix)
+- [Nissan Leaf IoT Dashboard](leaf-display)
+- [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
+- [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
+  - Reverse engineering and documentation of the `.zi` font format. Also includes a generator and an editor.
+- [Some Of My 3D Models For 3D Printing](https://github.com/hagronnestad/3d-print-models)
+  - [Thingiverse](https://www.thingiverse.com/heinandre/designs)
+- [COM Port Proxy](com-port-proxy)
+- [KAIFA MA105H2E Smart Meter MBUS Interface PoC](mbus-han-kaifa)
+
+
 ## Information Security
-
-
-### TryHackMe
-
-I regularly use [TryHackMe](https://tryhackme.com/) to practice me ethical hacking skills and learn new ones:
-
-- [My TryHackMe Writeups](ctf-thm-public)
-- [My TryHackMe Profile](https://tryhackme.com/p/hag)
 
 
 ### CTF Writeups
@@ -29,18 +35,12 @@ I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag
 | 2021 | H@ctivityCon                  | hag  | [ctf-hacktivitycon-2021](https://github.com/hagronnestad/ctf-hacktivitycon-2021) | 210 / 2527                            |
 
 
-## Hobby Projects
+### TryHackMe
 
-- [Commodore 64 Emulator](retro-computing)
-- [`c64matrix`](c64matrix)
-- [Nissan Leaf IoT Dashboard](leaf-display)
-- [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
-- [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
-  - Reverse engineering and documentation of the `.zi` font format. Also includes a generator and an editor.
-- [Some Of My 3D Models For 3D Printing](https://github.com/hagronnestad/3d-print-models)
-  - [Thingiverse](https://www.thingiverse.com/heinandre/designs)
-- [COM Port Proxy](com-port-proxy)
-- [KAIFA MA105H2E Smart Meter MBUS Interface PoC](mbus-han-kaifa)
+I regularly use [TryHackMe](https://tryhackme.com/) to practice me ethical hacking skills and learn new ones:
+
+- [My TryHackMe Writeups](ctf-thm-public)
+- [My TryHackMe Profile](https://tryhackme.com/p/hag)
 
 
 ### Other Links
