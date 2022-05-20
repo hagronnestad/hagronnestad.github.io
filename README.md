@@ -1,8 +1,9 @@
-## Contents
+### Hi! :)
 
-### [`#hobby-projects`](#hobby-projects) [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#other-links`](#other-links)
+This page acts as a casual résumé and showcase of my hobby projects and interests.
 
----
+#### [`#hobby-projects`](#hobby-projects) [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#other-links`](#other-links)
+
 
 ## Hobby Projects
 
