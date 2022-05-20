@@ -8,6 +8,7 @@ This page acts as a casual résumé and showcase of my hobby projects and intere
 ## Hobby Projects
 
 - [Commodore 64 Emulator](retro-computing)
+- [The Retro Hour Commodore 64 Episode Guide](c64-retro-hour)
 - [`c64matrix`](c64matrix)
 - [Nissan Leaf IoT Dashboard](leaf-display)
 - [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
