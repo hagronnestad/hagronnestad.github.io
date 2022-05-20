@@ -15,6 +15,7 @@ This page acts as a casual résumé and showcase of my hobby projects and intere
 - [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
   - Reverse engineering and documentation of the `.zi` font format. Also includes a generator and an editor.
 - [Some Of My 3D Models For 3D Printing](https://github.com/hagronnestad/3d-print-models)
+  - [Printables](https://www.printables.com/social/247057-hag/about)
   - [Thingiverse](https://www.thingiverse.com/heinandre/designs)
 - [COM Port Proxy](com-port-proxy)
 - [KAIFA MA105H2E Smart Meter MBUS Interface PoC](mbus-han-kaifa)
