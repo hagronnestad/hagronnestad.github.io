@@ -40,7 +40,7 @@ I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag
 
 | Year | Name                          | Team | Repo                                                                             | Placement                             |
 |------|-------------------------------|------|----------------------------------------------------------------------------------|---------------------------------------|
-| 202x | TryHackMe                     | hag  | [ctf-thm-public](https://github.com/hagronnestad/ctf-thm-public)                 | [Top 1%](https://tryhackme.com/p/hag) |
+| 202x | TryHackMe                     | hag  | [ctf-thm-public](https://heinandre.no/ctf-thm-public/)                           | [Top 1%](https://tryhackme.com/p/hag) |
 | 2022 | HTB Cyber Apocalypse 2022     | hag  | [htb-cyber-apocalypse-2022](https://heinandre.no/htb-cyber-apocalypse-2022/)     | 883 / 7024                            |
 | 2021 | River Security Xmas Challenge | hag  | [ctf-rsxc-2021](https://github.com/hagronnestad/ctf-rsxc-2021)                   |                                       |
 | 2021 | Equinor CTF                   | IK   | [ctf-equinor-21](https://github.com/hagronnestad/ctf-equinor-21)                 | 12 / 79                               |
