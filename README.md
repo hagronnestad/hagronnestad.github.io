@@ -31,7 +31,7 @@ I have a deep understanding of computer systems and information security, both a
 I am a certified eLearnSecurity Junior Penetration Tester. 
 
 ![](./img/ejpt.png)
-*Certificate Verification: https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10*
+*Certificate Verification: [https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10](https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10)*
 
 
 ### CTF Writeups
