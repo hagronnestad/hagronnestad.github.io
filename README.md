@@ -20,6 +20,16 @@
 
 ## Information Security
 
+I have a deep understanding of computer systems and information security, both as a software engineer and as a red team ethical hacker.
+
+
+### eJPT Certification
+
+I am a certified eLearnSecurity Junior Penetration Tester. 
+
+![](./img/ejpt.png)
+*Certificate Verification: https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10*
+
 
 ### CTF Writeups
 
