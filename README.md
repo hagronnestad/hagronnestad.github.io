@@ -7,6 +7,7 @@ This page acts as a casual résumé and showcase of my hobby projects and intere
 
 ## Hobby Projects
 
+- [IKEA Trådfri Stream Deck Plugin](streamdeck-tradfri)
 - [Commodore 64 Emulator](retro-computing)
 - [The Retro Hour Commodore 64 Episode Guide](c64-retro-hour)
 - [`c64matrix`](c64matrix)
