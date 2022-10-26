@@ -42,7 +42,7 @@ I am a certified eLearnSecurity Junior Penetration Tester.
 I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)). Here are some of my writeups from past ones:
 
 | Year | Name                                                                                         | Team | Placement                             |
-|------|--------------------------------------------------------------------------------              |------|---------------------------------------|
+|------|----------------------------------------------------------------------------------------------|------|---------------------------------------|
 | 202x | [TryHackMe](https://heinandre.no/ctf-thm-public/)                                            | hag  | [Top 1%](https://tryhackme.com/p/hag) |
 | 2022 | [Sikkerhetsdagen 2022 CTF @ UiA (Norwegian Writeups)](https://heinandre.no/ctf-uia-no-2022/) | hag  | 6th overall / 3rd by points (offsite) |
 | 2022 | [HTB Cyber Apocalypse 2022](https://heinandre.no/htb-cyber-apocalypse-2022/)                 | hag  | 883 / 7024                            |
