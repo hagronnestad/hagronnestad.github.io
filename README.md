@@ -2,7 +2,8 @@
 
 This page acts as a casual résumé and showcase of my hobby projects and interests.
 
-#### [`#hobby-projects`](#hobby-projects) [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#tryhackme`](#tryhackme) [`#other-links`](#other-links)
+
+#### [`#hobby-projects`](#hobby-projects) [`#info-sec`](#information-security) [`#ctf`](#ctf-writeups) [`#ejpt`](#ejpt-certification) [`#tryhackme`](#tryhackme) [`#other-links`](#other-links)
 
 
 ## Hobby Projects
@@ -28,15 +29,6 @@ This page acts as a casual résumé and showcase of my hobby projects and intere
 I have a deep understanding of computer systems and information security, both as a software engineer and as a red team ethical hacker.
 
 
-### eJPT Certification
-
-I am a certified eLearnSecurity Junior Penetration Tester. 
-
-![](./img/ejpt.png)
-
-*Certificate Verification: [https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10](https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10)*
-
-
 ### CTF Writeups
 
 I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)). Here are some of my writeups from past ones:
@@ -50,6 +42,15 @@ I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag
 | 2021 | [Equinor CTF](https://github.com/hagronnestad/ctf-equinor-21)                                | IK   | 12 / 79                               |
 | 2021 | [OP Holmgang](https://github.com/hagronnestad/ctf-op-holmgang)                               | IK   | 22 / 188                              |
 | 2021 | [H@ctivityCon](https://github.com/hagronnestad/ctf-hacktivitycon-2021)                       | hag  | 210 / 2527                            |
+
+
+### eJPT Certification
+
+I am a certified eLearnSecurity Junior Penetration Tester. 
+
+![](./img/ejpt.png)
+
+*Certificate Verification: [https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10](https://www.elearnsecurity.com/certification/verify?c=751496b8-eada-4937-b04e-2a160c5a8e10)*
 
 
 ### TryHackMe
