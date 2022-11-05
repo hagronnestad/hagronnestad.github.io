@@ -33,15 +33,16 @@ I have a deep understanding of computer systems and information security, both a
 
 I sometimes participate in [CTFs](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)). Here are some of my writeups from past ones:
 
-| Year | Name                                                                                         | Team | Placement                             |
-|------|----------------------------------------------------------------------------------------------|------|---------------------------------------|
-| 202x | [TryHackMe](https://heinandre.no/ctf-thm-public/)                                            | hag  | [Top 1%](https://tryhackme.com/p/hag) |
-| 2022 | [Sikkerhetsdagen 2022 CTF @ UiA (Norwegian Writeups)](https://heinandre.no/ctf-uia-no-2022/) | hag  | 6th overall / 3rd by points (offsite) |
-| 2022 | [HTB Cyber Apocalypse 2022](https://heinandre.no/htb-cyber-apocalypse-2022/)                 | hag  | 883 / 7024                            |
-| 2021 | [River Security Xmas Challenge](https://github.com/hagronnestad/ctf-rsxc-2021)               | hag  |                                       |
-| 2021 | [Equinor CTF](https://github.com/hagronnestad/ctf-equinor-21)                                | IK   | 12 / 79                               |
-| 2021 | [OP Holmgang](https://github.com/hagronnestad/ctf-op-holmgang)                               | IK   | 22 / 188                              |
-| 2021 | [H@ctivityCon](https://github.com/hagronnestad/ctf-hacktivitycon-2021)                       | hag  | 210 / 2527                            |
+| Year | Name                                                                                         | Team    | Placement                             |
+|------|----------------------------------------------------------------------------------------------|---------|---------------------------------------|
+| 2022 | [Equinor CTF 2022](https://heinandre.no/ctf-equinor-22/)                                     | Buttpug | 19 / 125                              |
+| 2022 | [Sikkerhetsdagen 2022 CTF @ UiA (Norwegian Writeups)](https://heinandre.no/ctf-uia-no-2022/) | hag     | 6th overall / 3rd by points (offsite) |
+| 2022 | [HTB Cyber Apocalypse 2022](https://heinandre.no/htb-cyber-apocalypse-2022/)                 | hag     | 883 / 7024                            |
+| 2021 | [River Security Xmas Challenge](https://github.com/hagronnestad/ctf-rsxc-2021)               | hag     |                                       |
+| 2021 | [Equinor CTF 2021](https://github.com/hagronnestad/ctf-equinor-21)                           | IK      | 12 / 79                               |
+| 2021 | [OP Holmgang](https://github.com/hagronnestad/ctf-op-holmgang)                               | IK      | 22 / 188                              |
+| 2021 | [H@ctivityCon](https://github.com/hagronnestad/ctf-hacktivitycon-2021)                       | hag     | 210 / 2527                            |
+|      | [TryHackMe](https://heinandre.no/ctf-thm-public/)                                            | hag     | [Top 1%](https://tryhackme.com/p/hag) |
 
 
 ### eJPT Certification
