@@ -7,7 +7,7 @@ This page acts as a casual résumé and showcase of my hobby projects and intere
 
 
 ## Hobby Projects
-
+- [Code Deck - Cross Platform Stream Deck Application Alternative](code-deck)
 - [Whack-An-Ernst (Stream Deck Game)](streamdeck-whack-an-ernst)
 - [IKEA Trådfri Stream Deck Plugin](streamdeck-tradfri)
 - [Commodore 64 Emulator](retro-computing)
