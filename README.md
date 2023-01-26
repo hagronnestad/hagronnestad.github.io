@@ -7,13 +7,25 @@ This page acts as a casual résumé and showcase of my hobby projects and intere
 
 
 ## Hobby Projects
-- [Code Deck - Cross Platform Stream Deck Application Alternative](code-deck)
-- [Whack-An-Ernst (Stream Deck Game)](streamdeck-whack-an-ernst)
+
+### [Code Deck](code-deck)
+A cross platform and open source alternative to the official Stream Deck application.
+
+### [Commodore 64 Emulator](retro-computing)
+An educational Commodore 64 Emulator written in C#. Featuring implementations of the MOS6510 CPU, the VIC-II video chip in character mode and a basic emulation of the SID audio chip.
+
+### [Whack-An-Ernst](streamdeck-whack-an-ernst)
+Whack-An-Ernst is a "Whack-A-Mole"-inspired game for the Elgato Stream Deck.
+
+### [Nissan Leaf IoT Dashboard](leaf-display)
+C# NissanConnect library and ESP8266 code powering a Nextion HMI display used to monitor and control a Nissan Leaf remotely.
+
+---
+
+### More Projects
 - [IKEA Trådfri Stream Deck Plugin](streamdeck-tradfri)
-- [Commodore 64 Emulator](retro-computing)
 - [The Retro Hour Commodore 64 Episode Guide](c64-retro-hour)
 - [`c64matrix`](c64matrix)
-- [Nissan Leaf IoT Dashboard](leaf-display)
 - [Ludum Dare 46 - A Wizard Worth Fighting For](https://github.com/hagronnestad/LD46)
 - [N*xtion Font Editor](https://github.com/hagronnestad/nextion-font-editor)
   - Reverse engineering and documentation of the `.zi` font format. Also includes a generator and an editor.
