@@ -17,6 +17,9 @@ An educational Commodore 64 Emulator written in C#. Featuring implementations of
 ### [Whack-An-Ernst](streamdeck-whack-an-ernst)
 Whack-An-Ernst is a "Whack-A-Mole"-inspired game for the Elgato Stream Deck.
 
+### [C# .NET Nissan Connect Library](nissan-connect-dotnet)
+A C# .NET client library for the unofficial Nissan Connect API. This library targets vehicles produced after May 2019.
+
 ### [Nissan Leaf IoT Dashboard](leaf-display)
 C# NissanConnect library and ESP8266 code powering a Nextion HMI display used to monitor and control a Nissan Leaf remotely.
 
